@@ -12,7 +12,7 @@ Are you looking for a reliable and powerful HWID changer for Windows 10 and 11? 
 
 ---
 
-## 🔐 What is HWID Obfuscator?
+## 🔐 What is HWID SPOOFER?
 
 **HWID Obfuscator** is a comprehensive tool built for modifying and masking your system's hardware identifiers. These identifiers are often used by anti-cheat systems, software licenses, and telemetry services to track individual machines. With HWID Obfuscator, you can easily change:
 
